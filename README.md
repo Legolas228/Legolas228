@@ -65,14 +65,6 @@ I am interested in different areas of software development and enjoy learning ne
 
 ## 📂 Selected Projects
 
-### Habluj
-
-Full-stack web application developed with a React/Vite frontend and Django backend.
-
-The project includes a multilingual frontend, REST API, contact and lead management, authentication-related functionality, SEO configuration and production deployment.
-
-**Technologies:** React, Vite, JavaScript, Django, Python, Django REST Framework, PostgreSQL, Tailwind CSS
-
 ### ft_Hangouts
 
 Android application developed as part of the 42 curriculum, focused on SMS and contact management.
@@ -98,6 +90,16 @@ Client-server communication project implementing message exchange between proces
 2D game developed from scratch, including map parsing, movement, collision handling and event-driven rendering.
 
 **Technologies:** C, MiniLibX
+
+### Habluj
+
+Full-stack web application developed with a React/Vite frontend and Django backend.
+
+The project includes a multilingual frontend, REST API, contact and lead management, authentication-related functionality, SEO configuration and production deployment.
+
+The project was developed using AI-assisted programming as part of the development workflow.
+
+**Technologies:** React, Vite, JavaScript, Django, Python, Django REST Framework, PostgreSQL, Tailwind CSS
 
 ---
 

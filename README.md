@@ -49,7 +49,6 @@ I am interested in different areas of software development and enjoy learning ne
 * Linux
 * Git / GitHub
 * Make
-* CMake
 * GDB / LLDB
 
 **Core Areas**

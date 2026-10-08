@@ -1,74 +1,126 @@
 # Pau Borrull Martínez
 
-**Junior C/C++ Software Developer**  
-Currently studying at **42 Prague**
+**Software Developer | C/C++ | Power Platform | Python**
+Currently working at **Škoda Auto** and studying at **42 Prague**
 
 ---
 
 ## 🧭 About
 
-Junior software developer focused on system-level programming, memory management, and problem-solving using C and C++.  
-I work with structured logic, debugging discipline, and clean, maintainable code practices.
+Software Developer interested in solving technical problems and building practical solutions.
 
-Previous experience in team coordination and operations makes me reliable in collaborative environments: clear communication, responsibility, and consistent delivery.
+Currently working at Škoda Auto, where I develop digital solutions for the Toolshop technology department using Microsoft Power Platform. My work includes developing applications from scratch, automating processes and working directly with users to turn their requirements into functional solutions.
 
-Currently expanding backend fundamentals and learning Kotlin.
+Alongside my professional experience, I study Software Engineering at 42 Prague. I completed the Common Core in September 2025 and continue with the specialization, working extensively with C and C++ and developing projects involving memory management, processes, threads, networking, sockets, algorithms and data structures.
+
+I also have experience with Python and full-stack web development through personal projects.
+
+I am interested in different areas of software development and enjoy learning new technologies by building and solving real problems.
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages**
-- C
-- C++
-- Kotlin
 
-**Tools**
-- Git / GitHub
-- Linux
-- Makefile
-- GDB / LLDB
+* C
+* C++
+* Python
+* Kotlin
 
-**Core Skills**
-- Memory management and debugging
-- Algorithms and data structures
-- Concurrency and synchronization (threads, mutexes)
-- Clean and incremental code development
+**Web & Application Development**
+
+* React
+* Vite
+* Django
+* REST APIs
+* SQL
+
+**Microsoft Power Platform**
+
+* Power Apps
+* Power Automate
+* SharePoint
+* Power BI
+* Advanced Excel
+
+**Tools & Systems**
+
+* Linux
+* Git / GitHub
+* Make
+* CMake
+* GDB / LLDB
+
+**Core Areas**
+
+* Memory management
+* Algorithms and data structures
+* Processes and threads
+* Concurrency and synchronization
+* Networking and sockets
+* Debugging
+* Application development
 
 ---
 
-## 📂 Notable Projects
+## 📂 Selected Projects
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **Minishell** | Implemented a simplified shell supporting pipes, redirections, and environment variable handling. | C |
-| **Philosophers** | Multithreaded implementation of the Dining Philosophers problem with deadlock prevention and synchronization. | C, Pthreads, Mutex |
-| **So_long** | 2D game featuring map parsing, collision handling, and event-driven rendering using MiniLibX. | C, MiniLibX |
-| **ft_irc** | IRC server built from scratch, implementing client/server communication, channels, user management, and command parsing via sockets. | C, Sockets, Networking |
-| **ft_transcendence** | Real-time multiplayer web application (Pong-style) with authentication, user profiles, chat, and match-making. | TypeScript, NestJS, PostgreSQL, WebSockets, Docker |
+### Habluj
+
+Full-stack web application developed with a React/Vite frontend and Django backend.
+
+The project includes a multilingual frontend, REST API, contact and lead management, authentication-related functionality, SEO configuration and production deployment.
+
+**Technologies:** React, Vite, JavaScript, Django, Python, Django REST Framework, PostgreSQL, Tailwind CSS
+
+### ft_Hangouts
+
+Android application developed as part of the 42 curriculum, focused on SMS and contact management.
+
+Includes contact creation and management, conversations, SMS sending/receiving, local data storage and different UI configurations.
+
+**Technologies:** Kotlin, Android, SQLite
+
+### Philosophers
+
+Implementation of the Dining Philosophers problem focused on concurrency, synchronization and thread management.
+
+**Technologies:** C, POSIX Threads, Mutexes
+
+### Minitalk
+
+Client-server communication project implementing message exchange between processes using UNIX signals.
+
+**Technologies:** C, UNIX Signals, Processes
+
+### So_long
+
+2D game developed from scratch, including map parsing, movement, collision handling and event-driven rendering.
+
+**Technologies:** C, MiniLibX
 
 ---
 
 ## 🎓 Education
 
-- **42 Prague / 42 Barcelona** — Software Development *(2023–Present)*
-- **Postgraduate in Digital Transformation** — EAE Business School *(2024)*
-- **Higher Vocational Degree in Sports Instruction & Socio-Sports Education** *(2021–2023)*
+* **42 Prague / 42 Barcelona** — Software Development *(2023–Present)*
+
+  * Common Core completed in September 2025
+* **Postgraduate in Digital Transformation** — EAE Business School *(2024)*
+* **Higher Vocational Degree in Sports Instruction & Socio-Sports Education** *(2021–2023)*
 
 ---
 
 ## 🌍 Languages
 
-- Spanish — Native  
-- Catalan — Native  
-- English — B2  
+* Spanish — Native
+* Catalan — Native
+* English — B2
 
 ---
 
 ## 📫 Contact
 
-**Email:** pauborrull8@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/pau-borrull-martínez-  
+**LinkedIn:** pau-borrull-martínez
 **Location:** Prague, Czech Republic
-
-

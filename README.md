@@ -1,127 +1,89 @@
 # Pau Borrull Martínez
 
-**Software Developer | C/C++ | Power Platform | Python**
-Currently working at **Škoda Auto** and studying at **42 Prague**
+**Digital Solutions Developer | Software Development**
 
----
+Currently working at **Škoda Auto** and studying Software Development at **42 Prague**.
 
-## 🧭 About
+## About
 
-Software Developer interested in solving technical problems and building practical solutions.
+I develop digital solutions that help teams improve their daily processes.
 
-Currently working at Škoda Auto, where I develop digital solutions for the Toolshop technology department using Microsoft Power Platform. My work includes developing applications from scratch, automating processes and working directly with users to turn their requirements into functional solutions.
+At Škoda Auto, I work on digitalization initiatives for the Toolshop technology department. I have designed and developed business applications using Microsoft Power Platform, automated workflows and created reporting solutions. My work involves gathering requirements directly from users, evaluating possible solutions and taking them from initial development to implementation.
 
-Alongside my professional experience, I study Software Engineering at 42 Prague. I completed the Common Core in September 2025 and continue with the specialization, working extensively with C and C++ and developing projects involving memory management, processes, threads, networking, sockets, algorithms and data structures.
+Alongside my professional experience, I am completing the Software Development programme at 42 Prague. I completed the Common Core in September 2025, working on projects involving C/C++ programming, algorithms, memory management, processes, concurrency, networking and system-level development.
 
-I also have experience with Python and full-stack web development through personal projects.
+I am interested in software development, business applications, automation and the integration of technology into real business processes.
 
-I am interested in different areas of software development and enjoy learning new technologies by building and solving real problems.
+## Technical Skills
 
----
+**Professional Experience**
+- Power Apps
+- Power Automate
+- SharePoint
+- Power BI
+- Advanced Excel
 
-## 🔧 Tech Stack
-
-**Languages**
-
-* C
-* C++
-* Python
-* Kotlin
-
-**Web & Application Development**
-
-* React
-* Vite
-* Django
-* REST APIs
-* SQL
-
-**Microsoft Power Platform**
-
-* Power Apps
-* Power Automate
-* SharePoint
-* Power BI
-* Advanced Excel
+**Programming & Software Development**
+- C
+- C++
+- Kotlin
 
 **Tools & Systems**
+- Git / GitHub
+- Linux / Unix
+- Make
+- Docker
+- GDB
 
-* Linux
-* Git / GitHub
-* Make
-* GDB / LLDB
+**Technical Areas**
+- Algorithms and data structures
+- Memory management
+- Processes and threads
+- Concurrency and synchronization
+- Networking and sockets
+- Application development
+- Workflow automation
 
-**Core Areas**
-
-* Memory management
-* Algorithms and data structures
-* Processes and threads
-* Concurrency and synchronization
-* Networking and sockets
-* Debugging
-* Application development
-
----
-
-## 📂 Selected Projects
-
-### ft_Hangouts
-
-Android application developed as part of the 42 curriculum, focused on SMS and contact management.
-
-Includes contact creation and management, conversations, SMS sending/receiving, local data storage and different UI configurations.
-
-**Technologies:** Kotlin, Android, SQLite
+## Selected Projects
 
 ### Philosophers
-
-Implementation of the Dining Philosophers problem focused on concurrency, synchronization and thread management.
+Implementation of the Dining Philosophers problem, focusing on thread management, synchronization and shared resources.
 
 **Technologies:** C, POSIX Threads, Mutexes
 
 ### Minitalk
-
-Client-server communication project implementing message exchange between processes using UNIX signals.
+Inter-process communication project implementing message exchange using UNIX signals.
 
 **Technologies:** C, UNIX Signals, Processes
 
-### So_long
-
-2D game developed from scratch, including map parsing, movement, collision handling and event-driven rendering.
+### so_long
+2D game developed as part of the 42 curriculum, including map parsing, path validation, movement and event-driven rendering.
 
 **Technologies:** C, MiniLibX
 
-### Habluj
+### ft_Hangouts
+Android application developed as part of the 42 curriculum, focused on contact and SMS management, with local data persistence.
 
-Full-stack web application developed with a React/Vite frontend and Django backend.
+**Technologies:** Kotlin, Android, SQLite
 
-The project includes a multilingual frontend, REST API, contact and lead management, authentication-related functionality, SEO configuration and production deployment.
+## Education
 
-The project was developed using AI-assisted programming as part of the development workflow.
+**42 Prague / 42 Barcelona** — Software Development Programme  
+2023 – Present
 
-**Technologies:** React, Vite, JavaScript, Django, Python, Django REST Framework, PostgreSQL, Tailwind CSS
+- Common Core completed in September 2025
+- Advanced specialization projects in progress
 
----
+**EAE Business School** — Digital Transformation  
+2024 – 2025
 
-## 🎓 Education
+## Languages
 
-* **42 Prague / 42 Barcelona** — Software Development *(2023–Present)*
+- Spanish — Native
+- Catalan — Native
+- English — B2
 
-  * Common Core completed in September 2025
-* **Postgraduate in Digital Transformation** — EAE Business School *(2024)*
-* **Higher Vocational Degree in Sports Instruction & Socio-Sports Education** *(2021–2023)*
+## Contact
 
----
-
-## 🌍 Languages
-
-* Spanish — Native
-* Catalan — Native
-* English — B2
-
----
-
-## 📫 Contact
-
-**LinkedIn:** pau-borrull-martínez
-**Location:** Prague, Czech Republic
+- **LinkedIn:** [pau-borrull-martínez](https://www.linkedin.com/in/pau-borrull-martínez/)
+- **Location:** Prague, Czechia

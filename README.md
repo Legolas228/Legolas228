@@ -85,5 +85,5 @@ Android application developed as part of the 42 curriculum, focused on contact a
 
 ## Contact
 
-- **LinkedIn:** [pau-borrull-martínez](https://www.linkedin.com/in/pau-borrull-martínez/)
+- **LinkedIn:** [pau-borrull-martínez-](https://www.linkedin.com/in/pau-borrull-mart%C3%ADnez-/)
 - **Location:** Prague, Czechia
